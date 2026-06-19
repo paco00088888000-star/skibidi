@@ -19,6 +19,10 @@ run/main_scene="uid://euo0pns8fj4l"
 config/features=PackedStringArray("4.6", "GL Compatibility")
 config/icon="uid://cm1h2x7vpf3jo"
 
+[editor_plugins]
+
+enabled=PackedStringArray("res://addons/gaea/plugin.cfg")
+
 [input]
 
 ui_left={
