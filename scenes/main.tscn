@@ -513,7 +513,7 @@ grow_vertical = 2
 texture = ExtResource("1_3dxm6")
 
 [node name="CharacterBody2D" parent="." unique_id=1046742692 instance=ExtResource("5_fos0i")]
-position = Vector2(799, 400)
+position = Vector2(571, 428.00006)
 scale = Vector2(1.596, 1.5)
 platform_floor_layers = 4294967041
 platform_wall_layers = 1
