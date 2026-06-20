@@ -1,0 +1,16 @@
+[gd_scene format=3 uid="uid://cuh5v2a2r7ooe"]
+
+[ext_resource type="Script" uid="uid://ddxihcxv7r0fa" path="res://addons/gaea/generators/2D/walker_generator/walker_generator.gd" id="1_8t7b0"]
+[ext_resource type="Script" uid="uid://cagjmofnib8ru" path="res://addons/gaea/renderers/2D/tilemap_gaea_renderer.gd" id="2_jschv"]
+
+[node name="svijet" type="Node2D" unique_id=2027995182]
+
+[node name="TileMapLayer" type="TileMapLayer" parent="." unique_id=163881237]
+
+[node name="WalkerGenerator" type="Node" parent="TileMapLayer" unique_id=1998854477]
+script = ExtResource("1_8t7b0")
+metadata/_custom_type_script = "uid://ddxihcxv7r0fa"
+
+[node name="TilemapGaeaRenderer" type="Node" parent="TileMapLayer/WalkerGenerator" unique_id=1240813123]
+script = ExtResource("2_jschv")
+metadata/_custom_type_script = "uid://cagjmofnib8ru"
