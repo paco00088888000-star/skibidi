@@ -4,10 +4,10 @@
 [ext_resource type="PackedScene" uid="uid://g87hj1ydl6p0" path="res://character_body_2d.tscn" id="2_xy3wr"]
 [ext_resource type="Script" uid="uid://uf3t2gt460u1" path="res://move.gd" id="3_sfv02"]
 [ext_resource type="Texture2D" uid="uid://cm1h2x7vpf3jo" path="res://sun.png" id="4_1jv34"]
-[ext_resource type="Texture2D" uid="uid://rcecyisdrbwi" path="res://tileset/terrarian/Terrain (16x16).png" id="5_q25b5"]
-[ext_resource type="Texture2D" path="res://imported/Toxic Trap - Level 1.png-7c08c535a198565c708a462c886d2ec9.ctex" id="6_34gvt"]
-[ext_resource type="Texture2D" path="res://imported/Punch Trap - Level 1.png-0757c970fdf57c369a9c22fc9ae2219e.ctex" id="7_g8eme"]
-[ext_resource type="Texture2D" path="res://imported/Arrow Trap - Level 1.png-cadd91c8b81a684a7f31ba6461ee447b.ctex" id="8_xutec"]
+[ext_resource type="Texture2D" uid="uid://rcecyisdrbwi" path="res://imported/tileset/terrarian/Terrain (16x16).png" id="5_q25b5"]
+[ext_resource type="Texture2D" uid="uid://cy5bwg16hh4p5" path="res://imported/tileset/toxic trap/Toxic Trap - Level 1.png" id="6_34gvt"]
+[ext_resource type="Texture2D" uid="uid://d4adjabxv23b3" path="res://imported/Punch Trap - Level 1.png-0757c970fdf57c369a9c22fc9ae2219e.ctex" id="7_g8eme"]
+[ext_resource type="Texture2D" uid="uid://dy6p6shruq8gm" path="res://imported/Arrow Trap - Level 1.png-cadd91c8b81a684a7f31ba6461ee447b.ctex" id="8_xutec"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_lgr22"]
 texture = ExtResource("5_q25b5")
